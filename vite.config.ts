@@ -5,7 +5,7 @@ import { VitePWA } from 'vite-plugin-pwa'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "/dashboard/",
+  base: "/arreglodash/",
   build: {
     outDir: "dist",
    },
@@ -18,7 +18,7 @@ export default defineConfig({
       },
       includeAssets: ['favicon.ico', 'apple-touch-icon.png'],
    manifest: {
-      id: '/dashboard/',
+      id: '/arreglodash/',
       name: 'Dashboard del Clima - Proyecto 04',
       short_name: 'Dashboard del Clima',
       description: 'Proyecto 04 - dashboard del clima desarrollado con React y MUI',
