@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Anlaye22.github.io/dashboard",
+  "homepage": "https://josemiu.github.io/arreglodash/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
